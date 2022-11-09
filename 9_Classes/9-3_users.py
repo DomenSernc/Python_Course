@@ -17,7 +17,7 @@ user = User("Domen", "Sernc", 28, "domenemail.gmail.com")
 user.describe_user()
 user.greet_user()
 
-user_1 = User("Jan", "Sernc", 23, "janemail@gmail.com")
+user_1 = User("Yaan", "Lightyear", 23, "janemail@gmail.com")
 user_1.describe_user()
 user.greet_user()
 
